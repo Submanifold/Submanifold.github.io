@@ -13,20 +13,30 @@ I also hold a dual Bachelor’s degree from the Department of Mathematical Scien
 
 My research focuses on computer graphics and geometry processing, with a dedication to applying mathematical tools to model the fascinating digital world.
 
+Preprints
+======
+
+1. Dong Xiao, Renjie Chen, Bailin Deng. Anisotropic Green Coordinates. https://arxiv.org/abs/2512.20386
+
 Publications
 ======
-1. Dong Xiao, Renjie Chen. Flexible 3D Cage-based Deformation via Green Coordinates on Bézier Patches. CoRR abs/2501.14068, 2025. （Accepted by SIGGRAPH 2025 conference track）
 
-2. Dong Xiao, Yueji Ma, Zuoqiang Shi, Shiqing Xin, Wenping Wang, Bailin Deng, Bin Wang. Winding Clearness for Differentiable Point Cloud Optimization. CoRR abs/2401.13639, 2024. (Conditionally accepted by SPM 2025)
+1. Dong Xiao, Yueji Ma, Zuoqiang Shi, Shiqing Xin, Wenping Wang, Bailin Deng, Bin Wang. Winding Clearness for Differentiable Point Cloud Optimization. Computer-Aided Design, Volume 188, November 2025, 103930.
 
-3. Yueji Ma, Yanzun Meng, Dong Xiao, Zuoqiang Shi, Bin Wang. Flipping-based Iterative Surface Reconstruction for Unoriented Points. Computer Aided Geometric Design (CAGD), 2024, Volume 111, June 2024, 102315
+2. Yueji Ma, Dong Xiao, Zuoqiang Shi, Bin Wang. Convection Augmented Gauss Reconstruction for Unoriented Point Clouds. ACM Transactions on Graphics, October 2025, Volume 44, Issue 5.
 
-4. Dong Xiao, Zuoqiang Shi, Bin Wang. Alternately Denoising and Reconstructing Unoriented Point Sets. Computers & Graphics Volume 116, 2023: 139-149
+3. Yueji Ma, Jialu Shen, Yanzun Meng, Dong Xiao, Zuoqiang Shi, Bin Wang. Anisotropic Gauss Reconstruction and Global Orientation with Octree‐based Acceleration. Computer Graphics Forum, Volume 44, August 2025, Issue 5.
 
-5. Dong Xiao, Zuoqiang Shi, Siyu Li, Bailin Deng, Bin Wang. Point Normal Orientation and Surface Reconstruction by Incorporating Isovalue Constraints to Poisson Equation. Computer Aided Geometric Design (CAGD), 2023, Volume 103, June 2023, 102195
+4. Dong Xiao, Renjie Chen. Flexible 3D Cage-based Deformation via Green Coordinates on Bézier Patches. In ACM SIGGRAPH 2025 Conference Proceedings, July 2025.
 
-6. Siyou Lin, Dong Xiao, Zuoqiang Shi, Bin Wang. Surface Reconstruction from Point Clouds without Normals by Parametrizing the Gauss Formula. ACM Transactions on Graphics (TOG), 2023, Volume 42, Issue 2, Article No.: 14, pp 1–19
+5. Wenguang Chen, Dong Xiao, Renjie Chen. Bijective Spherical Parameterization via Stereographic Projection. The Visual Computer, Volume 41, May 2025, Issue 9.
 
-7. Dong Xiao, Siyou Lin, Zuoqiang Shi, Bin Wang. Learning Modified Indicator Functions for Surface Reconstruction. Computers & Graphics Volume 102, 2022: 309-319
+6. Yueji Ma, Yanzun Meng, Dong Xiao, Zuoqiang Shi, Bin Wang. Flipping-based Iterative Surface Reconstruction for Unoriented Points. Computer Aided Geometric Design, Volume 111, June 2024, 102315.
 
+7. Dong Xiao, Zuoqiang Shi, Bin Wang. Alternately Denoising and Reconstructing Unoriented Point Sets. Computers & Graphics Volume 116, 2023: 139-149.
 
+8. Dong Xiao, Zuoqiang Shi, Siyu Li, Bailin Deng, Bin Wang. Point Normal Orientation and Surface Reconstruction by Incorporating Isovalue Constraints to Poisson Equation. Computer Aided Geometric Design, Volume 103, June 2023, 102195.
+
+9. Siyou Lin, Dong Xiao, Zuoqiang Shi, Bin Wang. Surface Reconstruction from Point Clouds without Normals by Parametrizing the Gauss Formula. ACM Transactions on Graphics, October 2022, Volume 42, Issue 2.
+
+10. Dong Xiao, Siyou Lin, Zuoqiang Shi, Bin Wang. Learning Modified Indicator Functions for Surface Reconstruction. Computers & Graphics Volume 102, 2022: 309-319.
