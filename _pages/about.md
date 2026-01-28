@@ -13,10 +13,6 @@ I also hold a dual Bachelor’s degree from the Department of Mathematical Scien
 
 My research focuses on computer graphics and geometry processing, with a dedication to applying mathematical tools to model the fascinating digital world.
 
-Preprints
-======
-
-1. Dong Xiao, Renjie Chen, Bailin Deng. Anisotropic Green Coordinates. https://arxiv.org/abs/2512.20386
 
 Publications
 ======
